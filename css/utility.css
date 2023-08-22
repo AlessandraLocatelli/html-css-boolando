@@ -1,0 +1,129 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+    
+    
+    /*COLORS*/
+
+    
+
+    /*background*/
+
+    .bg_orange
+    {
+
+     background-color:  rgb(255, 105, 0);
+
+    }
+
+    .bg_white
+    {
+
+        background-color: white;
+
+    }
+
+    .bg_black
+    {
+
+       background-color: black;
+
+    }
+
+    /*text*/
+
+    .text_white
+    {
+        color: white;
+
+    }
+
+    .text_red
+    {
+        color: red;
+    }
+    
+    /*DIMENSIONS*/
+
+    /*heigth*/
+
+    .h_50
+    {
+
+     height: 50px;
+
+    }
+
+    /*FLEX*/
+
+    .flex
+    {
+      display: flex;
+
+    }
+
+    .justify_spaceevenly
+    {
+
+    justify-content: space-evenly;
+
+    }
+
+    .justify_center
+    {
+        justify-content: center;
+
+    }
+
+
+    .align_items_center
+    {
+        align-items: center;
+
+    }
+
+    .align_text_center
+    {
+       text-align: center;
+
+    }
+   
+    .align_text_left
+    {
+       text-align: left;
+
+    }
+   
+    
+    .row_gap
+    {
+
+        row-gap: 10px;
+
+    }
+
+    .wrap
+    {
+
+        flex-wrap: wrap;
+
+    }
+
+
+    /*PADDINGS*/ 
+
+    /*MARGINS*/
+    .mt_40
+    {
+       margin-top: 40px;
+    }
+
+    .mt_100
+    {
+       margin-top: 100px;
+    }
+
+    
